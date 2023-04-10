@@ -1,0 +1,10 @@
+# Studious-Robot
+Personal database to help analyze stocks and securities
+
+python -m venv ./.venv
+
+python -m pip install -r requirements.txt
+
+#Generate requirements.txt
+
+python -m piptools compile
